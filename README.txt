@@ -1,5 +1,5 @@
 XStatic-JQuery-Migrate
---------------
+----------------------
 
 JQuery-Migrate JavaScript library packaged for setuptools (easy_install) / pip.
 
